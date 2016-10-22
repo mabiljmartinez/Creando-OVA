@@ -300,6 +300,24 @@ h3{
 	font-size: 11px;
 	text-align: center;
 }
+h4{
+	font-family: Arial, Helvetica, sans-serif;
+	;
+	margin-left: 20px;
+	margin-right: 20px;
+	color: #1C2123;
+	font-size: 15px;
+	text-align: justify;
+}
+h5{
+	font-family: Arial, Helvetica, sans-serif;
+	margin-right: 250px;
+	margin-left: 30px;
+	color: gray;
+	font-style:italic;
+	font-size: 11px;
+	text-align: justify;
+}
 header{
 	width: 1000px;
 	height: 120 px;
