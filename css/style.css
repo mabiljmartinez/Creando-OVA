@@ -351,6 +351,14 @@ section{
 	float: left;
 	margin-top: 7px;
 	border-radius: 10px 0px 0px 0px;
+} 
+#centro{ 
+    width:1000px; 
+	background:white; 
+	height:720px; 
+	float:left; 
+	margin-top:7px; 
+	border-radius: 10px 0px 0px 0px ;
 }
 aside{
 	width: 280px;
