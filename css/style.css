@@ -351,7 +351,15 @@ section{
 	float: left;
 	margin-top: 7px;
 	border-radius: 10px 0px 0px 0px;
-} 
+}  
+#act{
+	width: 713px;
+	background: white;
+	height: 750px;
+	float: left;
+	margin-top: 7px;
+	border-radius: 10px 0px 0px 0px;
+}
 #centro{ 
     width:1000px; 
 	background:white; 
