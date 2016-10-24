@@ -355,7 +355,7 @@ section{
 #act{
 	width: 713px;
 	background: white;
-	height: 720px;
+	height: 740px;
 	float: left;
 	margin-top: 7px;
 	border-radius: 10px 0px 0px 0px;
@@ -434,7 +434,7 @@ p{
 }
 #baner3 
 {
-	height: 590px;
+	height: 610 px;
 	width: 690px;
 	background-image:url(../img/actividades.gif);
 	border-radius:20px;
