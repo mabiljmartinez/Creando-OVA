@@ -352,14 +352,7 @@ section{
 	margin-top: 7px;
 	border-radius: 10px 0px 0px 0px;
 }  
-#act{
-	width: 713px;
-	background: white;
-	height: 730px;
-	float: left;
-	margin-top: 7px;
-	border-radius: 10px 0px 0px 0px;
-}
+
 #centro{ 
     width:1000px; 
 	background:white; 
@@ -432,8 +425,7 @@ p{
 	min-width:130px;
 
 }
-#baner3 
-{
+#baner3 {
 	height: 614 px;
 	width: 690px;
 	background-image:url(img/actividades.gif);
