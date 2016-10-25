@@ -437,17 +437,7 @@ p{
 	min-width:130px;
 
 }
-#baner3 {
-	height: 614 px;
-	width: 707px;
-	background-image:url(img/actividades.gif);
-	border-radius:20px;
-	-moz-border-radius:10px;
-	-webkit-border-radius:8px;
-	margin-top: 20px;
-	margin-right: 20px;
-	margin-bottom: 20px;
-}
+
 /*SEUDO CLASES*/
 p {
 	font-size: 12px;
